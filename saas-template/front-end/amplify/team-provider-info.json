@@ -1,15 +1,23 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-nanofrontend-dev-1b3c0-authRole",
-      "UnauthRoleArn": "arn:aws:iam::617619018147:role/amplify-nanofrontend-dev-1b3c0-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::617619018147:role/amplify-nanofrontend-dev-1b3c0-authRole",
+      "AuthRoleName": "amplify-nanofe-dev-fe8f1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::617619018147:role/amplify-nanofe-dev-fe8f1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::617619018147:role/amplify-nanofe-dev-fe8f1-authRole",
       "Region": "us-west-1",
-      "DeploymentBucketName": "amplify-nanofrontend-dev-1b3c0-deployment",
-      "UnauthRoleName": "amplify-nanofrontend-dev-1b3c0-unauthRole",
-      "StackName": "amplify-nanofrontend-dev-1b3c0",
-      "StackId": "arn:aws:cloudformation:us-west-1:617619018147:stack/amplify-nanofrontend-dev-1b3c0/257ca6e0-5dd8-11ef-a732-021c30a24029",
-      "AmplifyAppId": "d1eig05yqkzwxw"
+      "DeploymentBucketName": "amplify-nanofe-dev-fe8f1-deployment",
+      "UnauthRoleName": "amplify-nanofe-dev-fe8f1-unauthRole",
+      "StackName": "amplify-nanofe-dev-fe8f1",
+      "StackId": "arn:aws:cloudformation:us-west-1:617619018147:stack/amplify-nanofe-dev-fe8f1/f4054ae0-5deb-11ef-899b-06eaa4f347bb",
+      "AmplifyAppId": "db2w9kmfi5hov"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "db2w9kmfi5hov",
+          "type": "cicd"
+        }
+      }
     }
   }
 }

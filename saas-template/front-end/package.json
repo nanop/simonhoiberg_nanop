@@ -16,7 +16,7 @@
     "@emotion/styled": "^11.13.0",
     "apollo-link": "^1.2.14",
     "apollo-link-http": "^1.5.17",
-    "aws-amplify": "^6.5.1",
+    "aws-amplify": "^4.3.3",
     "aws-appsync": "^4.1.4",
     "framer-motion": "^5.5.5",
     "graphql": "^15.0.0",
